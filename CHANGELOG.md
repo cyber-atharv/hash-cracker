@@ -11,3 +11,6 @@ All notable changes to hash-cracker will be documented in this file.
 ## [0.1.2] - 2025-05-14
 - perf: stream dictionary files to reduce peak memory consumption
 
+## [0.1.3] - 2025-05-15
+- feat: add progress indicator and hashes-per-second metric
+
